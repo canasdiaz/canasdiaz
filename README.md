@@ -5,6 +5,7 @@ Luis co-founded [Bitergia](bitergia.com) in 2012, a company that provides softwa
 Below are a few links with stuff I've been involved in lately:
  * 🔬 Scientific publications:
    * 2023: [Empowering OSS Project Leaders with Community Diversity and Turnover Dashboards](https://arxiv.org/abs/2312.08543)
+   * 2021: [GrimoireLab: A toolset for software development analytics](https://peerj.com/articles/cs-601/)
  * 📰 Blog posts:
    * 2023: [Efficiency and Effectiveness Metrics to Optimize Performance](https://bitergia.com/blog/metric-of-the-month/efficiency-effectiveness-metrics-optimize-performance/)
    * 2023: [The Leaving Developers Metric](https://bitergia.com/blog/metric-of-the-month/leaving-developers-metric-of-the-month-february-2023/)
