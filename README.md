@@ -13,6 +13,7 @@ Below are a few links with stuff Luis has been involved in lately:
    * 2022: [The Pony Factor](https://bitergia.com/blog/metric-of-the-month/the-pony-factor-metric-of-the-month-november-2022/)
    * 2022: [The Elephant Factor](https://bitergia.com/blog/metric-of-the-month/metric-of-the-month-the-elephant-factor/)
  * 🎙️ Podcasts:
-   * 2024: [Introducing CHAOSS Practitioner Guides: #1 Responsiveness](https://podcast.chaoss.community/85)
+   * 2024: [Sustain Podcast: Elizabeth Barron, Luis Cañas-Diaz & Dawn Foster on CHAOSS Practitioner Guides](https://podcast.sustainoss.org/243)
+   * 2024: [CHAOSS Podcast: Introducing CHAOSS Practitioner Guides: #1 Responsiveness](https://podcast.chaoss.community/85)
  * 🗺️ Public reports about OSS communities:
    * 2019: [Mozilla & the Rebel Alliance](https://report.mozilla.community/)
