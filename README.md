@@ -16,4 +16,5 @@ Below are a few links with stuff Luis has been involved in lately:
    * 2024: [Sustain Podcast: Elizabeth Barron, Luis Cañas-Diaz & Dawn Foster on CHAOSS Practitioner Guides](https://podcast.sustainoss.org/243)
    * 2024: [CHAOSS Podcast: Introducing CHAOSS Practitioner Guides: #1 Responsiveness](https://podcast.chaoss.community/85)
  * 🗺️ Public reports about OSS communities:
+   * 2023: [The State of Diversity and Inclusion in the ASF Community: A Pulse Check](https://news.apache.org/foundation/entry/the-state-of-diversity-and-inclusion-in-the-asf-community-a-pulse-check)
    * 2019: [Mozilla & the Rebel Alliance](https://report.mozilla.community/)
