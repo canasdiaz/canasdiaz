@@ -7,6 +7,7 @@ Below are a few links with stuff Luis has been involved in lately:
    * 2023: [Empowering OSS Project Leaders with Community Diversity and Turnover Dashboards](https://arxiv.org/abs/2312.08543)
    * 2021: [GrimoireLab: A toolset for software development analytics](https://peerj.com/articles/cs-601/)
  * 📰 Blog posts:
+   * 2024: [Navigating Open Source Uncertainty: A Customer’s Experience with Bitergia 360Reports](https://bitergia.com/blog/bitergia-analytics/open-source-uncertainty-a-customers-experience-with-bitergia-360reports/)
    * 2023: [Efficiency and Effectiveness Metrics to Optimize Performance](https://bitergia.com/blog/metric-of-the-month/efficiency-effectiveness-metrics-optimize-performance/)
    * 2023: [The Leaving Developers Metric](https://bitergia.com/blog/metric-of-the-month/leaving-developers-metric-of-the-month-february-2023/)
    * 2023: [The Attracted Developer's Metric](https://bitergia.com/blog/metric-of-the-month/attracted-developers-metric-of-the-month-january-2023/)
@@ -20,3 +21,4 @@ Below are a few links with stuff Luis has been involved in lately:
    * 2019: [Mozilla & the Rebel Alliance](https://report.mozilla.community/)
  * Other stuff:
    * 2024: [Ubuntu Summit talk: Software Supply Chain in Danger (article in Linux Magazine Germany)](https://www-linux--magazin-de.translate.goog/news/ubuntu-summit-software-supply-chain-in-gefahr[%E2%80%A6]_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+   * 2024: [Ubuntu Summit talk: Software Supply Chain in Danger (video)](https://www.youtube.com/watch?v=8wIDzfuIGKI)
