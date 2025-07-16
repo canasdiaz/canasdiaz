@@ -22,6 +22,5 @@ Below are a few links with stuff Luis has been involved in lately:
    * 2023: [The State of Diversity and Inclusion in the ASF Community: A Pulse Check](https://news.apache.org/foundation/entry/the-state-of-diversity-and-inclusion-in-the-asf-community-a-pulse-check)
    * 2019: [Mozilla & the Rebel Alliance](https://report.mozilla.community/)
  * Other stuff:
-   * 2025: [Automotive Grade Linux talk: AGL's Delivery Process Performance, A Data-Supported View](https://static.sched.com/hosted_files/aglammsummer2025/40/AGL%27s%20Delivery%20Process%20Performance_%20A%20Data-Supported%20View.pdf)
-   * 2024: [Ubuntu Summit talk: Software Supply Chain in Danger (article in Linux Magazine Germany)](https://www-linux--magazin-de.translate.goog/news/ubuntu-summit-software-supply-chain-in-gefahr[%E2%80%A6]_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-   * 2024: [Ubuntu Summit talk: Software Supply Chain in Danger (video)](https://www.youtube.com/watch?v=8wIDzfuIGKI)
+   * 2025: [Automotive Grade Linux talk: AGL's Delivery Process Performance, A Data-Supported View](https://static.sched.com/hosted_files/aglammsummer2025/40/AGL%27s%20Delivery%20Process%20Performance_%20A%20Data-Supported%20View.pdf) [[Video of the talk](https://www.youtube.com/watch?v=dBoZIZaFVqQ)]
+   * 2024: [Ubuntu Summit talk: Software Supply Chain in Danger (article in Linux Magazine Germany)](https://www-linux--magazin-de.translate.goog/news/ubuntu-summit-software-supply-chain-in-gefahr[%E2%80%A6]_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [[Video of the talk](https://www.youtube.com/watch?v=8wIDzfuIGKI)]
