@@ -18,6 +18,7 @@ Below are a few links with stuff Luis has been involved in lately:
    * 2024: [Sustain Podcast: Elizabeth Barron, Luis Cañas-Diaz & Dawn Foster on CHAOSS Practitioner Guides](https://podcast.sustainoss.org/243)
    * 2024: [CHAOSS Podcast: Introducing CHAOSS Practitioner Guides: #1 Responsiveness](https://podcast.chaoss.community/85)
  * 🗺️ Public reports about OSS communities:
+   * 2025: [AGL's Business Intelligence Journey, applied to the production of AGL Platform](https://lf-automotivelinux.atlassian.net/wiki/spaces/CIAT/pages/484016130/AGL+s+Business+Intelligence+Journey+applied+to+the+production+of+AGL+Platform)
    * 2025: [The State of Hedera and the Open Source Crypto Ecosystem in 2024](https://bitergia.com/radar-report-hedera-crypto-ecosystems-2024/)
    * 2023: [The State of Diversity and Inclusion in the ASF Community: A Pulse Check](https://news.apache.org/foundation/entry/the-state-of-diversity-and-inclusion-in-the-asf-community-a-pulse-check)
    * 2019: [Mozilla & the Rebel Alliance](https://report.mozilla.community/)
