@@ -4,6 +4,7 @@ Luis co-founded [Bitergia](bitergia.com) in 2012, a company that provides softwa
 
 Below are a few links with stuff Luis has been involved in lately:
  * 🔬 Scientific publications:
+   * 2025: [Community Tapestry: An Actionable Tool to Track Turnover and Diversity in OSS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5199260)
    * 2023: [Empowering OSS Project Leaders with Community Diversity and Turnover Dashboards](https://arxiv.org/abs/2312.08543)
    * 2021: [GrimoireLab: A toolset for software development analytics](https://peerj.com/articles/cs-601/)
  * 📰 Blog posts:
