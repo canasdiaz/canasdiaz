@@ -13,7 +13,7 @@ Below are a few links with stuff Luis has been involved in lately:
    * 2023: [The Leaving Developers Metric](https://bitergia.com/blog/metric-of-the-month/leaving-developers-metric-of-the-month-february-2023/)
    * 2023: [The Attracted Developer's Metric](https://bitergia.com/blog/metric-of-the-month/attracted-developers-metric-of-the-month-january-2023/)
    * 2022: [The Pony Factor](https://bitergia.com/blog/metric-of-the-month/the-pony-factor-metric-of-the-month-november-2022/)
-   * 2022: [The Elephant Factor](https://bitergia.com/blog/metric-of-the-month/metric-of-the-month-the-elephant-factor/)
+   * 2022: [The Elephant Factor](https://sanacl.wordpress.com/2022/10/13/the-elephant-factor-metric-of-the-month/)
  * 🎙️ Podcasts:
    * 2025: [CHAOSS Podcast: GrimoireLab at Thunderbird](https://podcast.chaoss.community/105)
    * 2024: [Sustain Podcast: Elizabeth Barron, Luis Cañas-Diaz & Dawn Foster on CHAOSS Practitioner Guides](https://podcast.sustainoss.org/243)
