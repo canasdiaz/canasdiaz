@@ -21,7 +21,7 @@ Below are a few links with stuff Luis has been involved in lately:
  * 🗺️ Public reports about OSS communities:
    * 2025: [AGL's Business Intelligence Journey, applied to the production of AGL Platform](https://lf-automotivelinux.atlassian.net/wiki/spaces/CIAT/pages/484016130/AGL+s+Business+Intelligence+Journey+applied+to+the+production+of+AGL+Platform)
    * 2025: [The State of Hedera and the Open Source Crypto Ecosystem in 2024](https://bitergia.com/radar-report-hedera-crypto-ecosystems-2024/)
-   * 2023: [The State of Diversity and Inclusion in the ASF Community: A Pulse Check](https://news.apache.org/foundation/entry/the-state-of-diversity-and-inclusion-in-the-asf-community-a-pulse-check)
+   * 2023: [The State of Diversity and Inclusion in the ASF Community: A Pulse Check](https://apache.org/foundation/docs/2023DEIReport.pdf)
    * 2019: [Mozilla & the Rebel Alliance](https://report.mozilla.community/)
  * Other stuff:
    * 2025: [Automotive Grade Linux talk: AGL's Delivery Process Performance, A Data-Supported View](https://static.sched.com/hosted_files/aglammsummer2025/40/AGL%27s%20Delivery%20Process%20Performance_%20A%20Data-Supported%20View.pdf) [[Video of the talk](https://www.youtube.com/watch?v=dBoZIZaFVqQ)]
