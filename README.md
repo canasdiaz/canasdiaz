@@ -1,6 +1,6 @@
 ## Hola there 👋
 
-Luis co-founded [Bitergia](bitergia.com) in 2012, a company that provides software analytics for open source ecosystems. During the last 12 years, he has been analyzing OSS projects. Luis holds a degree in computer science from the Universidad Rey Juan Carlos in Madrid, where he worked for a decade in a research group specialized in the analysis of OSS communities. Nowadays, he is the lead consultant at Bitergia and is focused on providing metrics with the data offered by the GrimoireLab platform, one of the software solutions developed in the CHAOSS project.
+Luis co-founded [Bitergia](bitergia.com) in 2014, a company that provides software analytics for open source ecosystems. During the last 12 years, he has been analyzing OSS projects. Luis holds a degree in computer science from the Universidad Rey Juan Carlos in Madrid, where he worked for a decade in a research group specialized in the analysis of OSS communities. Nowadays, he is the lead consultant at Bitergia and is focused on providing metrics with the data offered by the GrimoireLab platform, one of the software solutions developed in the CHAOSS project.
 
 Below are a few links with stuff Luis has been involved in lately:
  * 🔬 Scientific publications:
